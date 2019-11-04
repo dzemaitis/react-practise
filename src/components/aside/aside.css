@@ -1,0 +1,6 @@
+aside ul {
+  word-wrap: break-word; }
+  aside ul li:nth-child(1) {
+    background-color: #09d3ac; }
+
+/*# sourceMappingURL=aside.css.map */
